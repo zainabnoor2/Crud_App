@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db   = 'crud_app'; // replace with your database name
-$user = 'root';               // default XAMPP username
-$pass = '';                   // default XAMPP password is empty
+$db   = 'crud_app'; 
+$user = 'root';               
+$pass = '';                
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
